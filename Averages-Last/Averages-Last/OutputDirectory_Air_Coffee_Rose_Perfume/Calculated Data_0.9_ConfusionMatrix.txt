@@ -1,0 +1,6 @@
+Total samples: 30700	Correct predictions: 27399	Incorrect predictions: 3301	Accuracy: 89.25%	Confusion Matrix (Percentages):
+           | Air        | Perfume    | Rose       | Coffee    
+Air        |    100.00% |      0.00% |      0.00% |      0.00%
+Perfume    |      0.00% |     55.63% |      0.00% |     44.37%
+Rose       |      0.00% |      0.59% |     94.79% |      4.62%
+Coffee     |      0.00% |      0.00% |      0.00% |    100.00%

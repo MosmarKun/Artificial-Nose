@@ -1,0 +1,7 @@
+Total samples: 38600	Correct predictions: 34547	Incorrect predictions: 4053	Accuracy: 89.50%	Confusion Matrix (Percentages):
+           | Air        | Chocolate  | Bread      | Cola       | Fish      
+Air        |    100.00% |      0.00% |      0.00% |      0.00% |      0.00%
+Chocolate  |      1.06% |     69.65% |      0.00% |     21.28% |      8.01%
+Bread      |      0.00% |      0.00% |    100.00% |      0.00% |      0.00%
+Cola       |      0.00% |      0.00% |      0.00% |    100.00% |      0.00%
+Fish       |      0.00% |      1.56% |      7.81% |      0.00% |     90.62%

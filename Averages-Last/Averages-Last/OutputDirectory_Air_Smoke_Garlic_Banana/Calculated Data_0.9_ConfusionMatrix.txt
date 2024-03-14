@@ -1,0 +1,6 @@
+Total samples: 29300	Correct predictions: 27696	Incorrect predictions: 1604	Accuracy: 94.53%	Confusion Matrix (Percentages):
+           | Air        | Banana     | Garlic     | Smoke     
+Air        |    100.00% |      0.00% |      0.00% |      0.00%
+Banana     |      0.00% |    100.00% |      0.00% |      0.00%
+Garlic     |      0.00% |      0.00% |    100.00% |      0.00%
+Smoke      |      0.00% |     25.46% |      0.00% |     74.54%
